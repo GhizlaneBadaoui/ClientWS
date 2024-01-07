@@ -49,18 +49,6 @@
                                         <packagename>fr.insa.requester.wsdltojava</packagename>
                                     </packagenames>
                                 </wsdlOption>
-                                <wsdlOption>
-                                    <wsdl>${basedir}/src/main/resources/wsdl/TestWS.wsdl</wsdl>
-                                    <packagenames>
-                                        <packagename>fr.insa.ws.test1.wsdltojava</packagename>
-                                    </packagenames>
-                                </wsdlOption>
-                                <wsdlOption>
-                                    <wsdl>${basedir}/src/main/resources/wsdl/TestServices.wsdl</wsdl>
-                                    <packagenames>
-                                        <packagename>fr.insa.ws.test2.wsdltojava</packagename>
-                                    </packagenames>
-                                </wsdlOption>
                             </wsdlOptions>
                         </configuration>
                         <goals>
